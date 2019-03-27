@@ -1,3 +1,5 @@
+virtualenv
 *.zip
+params.json
 .vscode/*
 slack.json
