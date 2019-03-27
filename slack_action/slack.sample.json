@@ -1,5 +1,5 @@
 {
-  "SLACK_MESSAGE_POST_URL": "",
+  "SLACK_MESSAGE_POST_URL": "https://slack.com/api/chat.postMessage",
   "SLACK_ACCESS_TOKEN": "",
   "CHANNEL": ""
 }

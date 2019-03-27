@@ -24,9 +24,6 @@ def main(dict):
         else:
             print('File Downloaded')
 
-            # ls the directory to log out the files.
-            # print(subprocess.call(["ls", "-l"]))
-
             return analyse_file(download_file_path)
 
     except Exception as e:

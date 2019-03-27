@@ -6,8 +6,8 @@
   "iam_role_crn": "",
   "iam_serviceid_crn": "",
   "resource_instance_id": "",
-  "auth_endpoint": "",
-  "service_endpoint": "",
+  "auth_endpoint": "https://iam.cloud.ibm.com/oidc/token",
+  "service_endpoint": "https://s3.us-south.cloud-object-storage.appdomain.cloud",
   "bucket_name":"excel",
   "object_name": "Film_Locations_in_San_Francisco.xls"
 }
